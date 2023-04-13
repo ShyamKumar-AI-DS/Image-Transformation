@@ -218,8 +218,6 @@ plt.show()
 
 
 
-
-```
 ## Output:
 ### i)Image Translation
 ![o](a1.png)
